@@ -1,2 +1,2 @@
-# 1-DS--logica
+# 2-DS--logica
 arquivos de exercicios  de front-end
